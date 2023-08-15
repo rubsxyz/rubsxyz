@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben Teixeira</h1>
 <h3 align="center">Programming Student from Portugal</h3>
 
-- 🌱 I’m currently learning **Javascript, Web Development**
+- 🌱 I’m currently learning **JavaScript, Web Development**
 
 - 📫 How to reach me **devruben10@gmail.com**
 
