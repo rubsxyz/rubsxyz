@@ -1,12 +1,8 @@
 - <h2>Hey there, my name is Ruben 🤍</h2>
 
-🌱 I’m currently learning **JavaScript, Web Development**
+> 🌱 I’m currently learning **JavaScript, Web Development**
 
-📫 How to reach me **devruben10@gmail.com**
-
-> This is the first line of the blockquote.
-> Here is the second line.
-> And this is the third line.
+> 📫 How to reach me **devruben10@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
