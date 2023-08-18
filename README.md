@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruben Teixeira</h1>
+<h1>Hi 👋, I'm Ruben Teixeira</h1>
 <h3 align="center">Programming Student from Portugal</h3>
 
 - 🌱 I’m currently learning **JavaScript, Web Development**
