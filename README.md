@@ -1,5 +1,4 @@
-<h1>Hey there, my name is Ruben 🤍</h1>
-<h3 align="center">Programming Student from Portugal</h3>
+<h2>Hey there, my name is Ruben 🤍</h2>
 
 - 🌱 I’m currently learning **JavaScript, Web Development**
 
