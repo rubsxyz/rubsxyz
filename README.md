@@ -1,6 +1,6 @@
-- <h2>Hey there, my name is Ruben 🤍</h2>
+- <h3 align="left">Hey there, my name is Ruben 🤍</h3>
 
-- <h2>About me 🦄</h2>
+- <h3 align="left">About me 🦄</h3>
 
 > 🌱 • I’m currently learning **JavaScript, Web Development**.
 > 
