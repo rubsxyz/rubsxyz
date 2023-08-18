@@ -1,4 +1,4 @@
-<h2>Hey there, my name is Ruben 🤍</h2>
+<h2>- Hey there, my name is Ruben 🤍</h2>
 
 - 🌱 I’m currently learning **JavaScript, Web Development**
 
