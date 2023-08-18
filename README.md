@@ -1,7 +1,7 @@
 - <h2>Hey there, my name is Ruben 🤍</h2>
 
-> 🌱 I’m currently learning **JavaScript, Web Development**
-> 📫 Here's how you can reach me **devruben10@gmail.com**
+> 🌱 I’m currently learning **JavaScript, Web Development**.
+> 📫 Here's how you can reach me **devruben10@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
