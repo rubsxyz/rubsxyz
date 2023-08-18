@@ -4,6 +4,39 @@
 
 📫 How to reach me **devruben10@gmail.com**
 
+<div class="list-container">
+  <div class="list-item">
+    <p>Item 1</p>
+    <div class="vertical-line"></div>
+  </div>
+  <div class="list-item">
+    <p>Item 2</p>
+    <div class="vertical-line"></div>
+  </div>
+  <div class="list-item">
+    <p>Item 3</p>
+  </div>
+</div>
+
+<style>
+  .list-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .vertical-line {
+    width: 2px;
+    height: 12px;
+    background-color: black;
+    margin-left: 8px;
+  }
+</style>
 
 
 <h3 align="left">Connect with me:</h3>
