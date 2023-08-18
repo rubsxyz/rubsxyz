@@ -4,12 +4,6 @@
 
 📫 How to reach me **devruben10@gmail.com**
 
-- Main Item
-  - Sub-item 1
-  - Sub-item 2
-- Another Main Item
-  - Sub-item A
-  - Sub-item B
 
 
 <h3 align="left">Connect with me:</h3>
