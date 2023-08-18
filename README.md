@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" /> </p>
 <p align="left">
 
+> 🌎 • I'm from Portugal, born February 2003;
+>
 > 📫 • Here's how you can reach me **devruben10@gmail.com**.
 >
 > 🧠 • I'm always ready to learn and improve!
