@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-teixeira-316011316/)
 
 ### • Stats👨🏻‍💻
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=rubsxyz&theme=radical)
 
 
 ### • Skills and experiences! ⚡
