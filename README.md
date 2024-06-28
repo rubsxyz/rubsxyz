@@ -1,6 +1,7 @@
-<h2 align="left">• Hey there, my name is Ruben 🤍</h2>
+<h2 align="left">• Hey there, my name is Ruben 🤍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" /> </p>
+<p align="left">
 
 > 🌎 • I'm from Portugal, born February 2003;
 >
@@ -11,17 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-teixeira-316011316/)
 
 ### • Stats👨🏻‍💻
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&layout=compact&theme=radical)
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
 
 ### • Skills and experiences! ⚡
 
