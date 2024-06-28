@@ -5,10 +5,16 @@
 
 > 🌎 • I'm from Portugal, born February 2003;
 >
-> 📫 • Here's how you can reach me **devruben10@gmail.com**.
->
 > 🧠 • I'm always ready to learn and improve!
 
-<h2 align="left">• About me! 🧑🏻‍💻</h3>
+## • Contact links 📫
 
-> 🥇 • I’m currently learning **JavaScript**. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" align="center" width="30px" style="max-width: 100%;"/> </a>
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+
+### • Stats👨🏻‍💻
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&layout=compact&theme=radical)
+
+
+### • Skills and experiences! ⚡
+
+> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
