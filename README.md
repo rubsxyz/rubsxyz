@@ -1,4 +1,4 @@
-<h2 align="left">• Hey there, my name is Ruben 🤍</h2>
+<h2 align="left">• Hey there, my name is Ruben</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" /> </p>
 <p align="left">
