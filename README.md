@@ -1,11 +1,8 @@
 ## Hey there, my name is Ruben 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" /> </p>
-<p align="left">
+<img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" />
 
-> I'm from Portugal, born February 2003;
->
-> I'm always ready to learn and improve!
+Born in February 2003, I'm passionate about crafting seamless and engaging user experiences on the web. With a strong focus on frontend development, I’m constantly exploring new technologies and best practices to sharpen my skills. I thrive in environments where I can learn, innovate, and bring ideas to life through code.
 
 ## 🔧 Technologies & Tools
 
