@@ -32,8 +32,6 @@
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat&logo=figma&logoColor=white)
 
 ## Connect with me
-
-### Contact links
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-teixeira-316011316/)
 
