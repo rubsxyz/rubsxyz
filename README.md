@@ -1,4 +1,7 @@
-## Hey there, my name is Ruben 👋 <img src="https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=ff4af8&style=flat" alt="rubsxyz" />
+## Hey there, my name is Ruben 👋  
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-teixeira-316011316/)
+![ProfileViews](https://komarev.com/ghpvc/?username=rubsxyz&label=Profile%20views&color=70A5FD&style=flat)
 
 Born in February 2003, Portugal, I'm passionate about crafting seamless and engaging user experiences on the web. With a strong focus on frontend development, I’m constantly exploring new technologies and best practices to sharpen my skills. I thrive in environments where I can learn, innovate, and bring ideas to life through code.
 
@@ -24,16 +27,13 @@ Born in February 2003, Portugal, I'm passionate about crafting seamless and enga
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![EditorConfig](https://img.shields.io/badge/EditorConfig-000000?style=flat&logo=editorconfig&logoColor=white)
 
-## Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:devruben10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-teixeira-316011316/)
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubsxyz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&layout=compact&theme=radical)
+##
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rubsxyz&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+</div>
