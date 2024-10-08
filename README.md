@@ -34,6 +34,7 @@ Born in February 2003, Portugal, I'm passionate about crafting seamless and enga
 ![EditorConfig](https://img.shields.io/badge/EditorConfig-000000?style=flat&logo=editorconfig&logoColor=white)
 
 ##
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rubsxyz&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsxyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
