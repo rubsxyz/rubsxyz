@@ -6,6 +6,7 @@
 Born in February 2003, Portugal, I'm passionate about crafting seamless and engaging user experiences on the web. With a strong focus on frontend development, I’m constantly exploring new technologies and best practices to sharpen my skills. I thrive in environments where I can learn, innovate, and bring ideas to life through code.
 
 ## 🔧 Technologies & Tools
+
 ### Languages
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
