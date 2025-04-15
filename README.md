@@ -22,14 +22,12 @@ Born in February 2003, Portugal, I'm passionate about crafting seamless and enga
 
 ### Tools & Platforms
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/Adobe%20CC-FF0000?style=flat&logo=adobe-creative-cloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![EditorConfig](https://img.shields.io/badge/EditorConfig-000000?style=flat&logo=editorconfig&logoColor=white)
 
 ##
 
